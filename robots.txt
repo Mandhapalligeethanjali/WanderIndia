@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:https://geethanjali.github.io/wanderindia/sitemap.xml

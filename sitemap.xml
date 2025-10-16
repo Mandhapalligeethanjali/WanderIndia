@@ -1,0 +1,20 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://geethanjali.github.io/wanderindia/</loc>
+<lastmod>2025-10-16</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://geethanjali.github.io/wanderindia/delhi.html</loc>
+<lastmod>2025-10-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://geethanjali.github.io/wanderindia/goa.html</loc>
+<lastmod>2025-10-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
